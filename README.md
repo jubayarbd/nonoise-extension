@@ -212,7 +212,7 @@ NoNoise is built and maintained by one person. Every bug report and review genui
 
 <div align="center">
 
-Built with patience and a lot of ☕ by **[Jubayer Hossain](https://jubayer.dev)**
+Built with patience and a lot of ☕ by **[Jubayer Hossain](https://jubayarbd.github.io/portfolio)**
 
 *If NoNoise gives you back even one hour of focused work, it was worth building.*
 
